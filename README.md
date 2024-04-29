@@ -28,6 +28,3 @@ where language_code is either 'en' or 'es' for English and Spanish languages. Fu
 
 This tool was developed by myself in my spare time. It is a tool that demonstrates the power of Selenium and web scraping. I do not support the use of this tool to harass people or any other fraudulent purpose. If you have suggestions on how to expand or improve the functionality, please send a message to Discord and I will gladly review the changes.
 
- - [FJRG2007 ツ (Alias: Hyperion)](https://www.tpeoficial.com/fjrg2007/)
- - [More repositories](https://www.tpeoficial.com/fjrg2007/repositories)
-
