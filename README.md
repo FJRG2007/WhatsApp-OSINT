@@ -1,4 +1,4 @@
-# ⚠️ Enhanced version in my Sntach project!
+# ⚠️ Enhanced version in my [Sntach](https://github.com/FJRG2007/snatch) project!
 
 # WhatsApp OSINT Tool
 
