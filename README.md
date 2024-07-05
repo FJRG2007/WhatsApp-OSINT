@@ -1,3 +1,5 @@
+# ⚠️ Enhanced version in my Sntach project!
+
 # WhatsApp OSINT Tool
 
 ![example](./img/doc1.PNG?raw=true)
